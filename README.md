@@ -7,8 +7,8 @@ The datasets have been collected and aggregated from the website of Kaggle. (Ava
 • train.tsv consists of the expressions and their related sentiment labels. Moreover, it has been given a SentenceId with the goal that we can track which phrases have a place with a solitary sentence.
 • test.tsv contains only expressions and we should allocate a sentiment label to every single expression.
 In addition, the sentiment labels are:
-0 - negative
-1 - somewhat negative
-2 - neutral
-3 - somewhat positive
+0 - negative,
+1 - somewhat negative,
+2 - neutral,
+3 - somewhat positive,
 4 - positive.
