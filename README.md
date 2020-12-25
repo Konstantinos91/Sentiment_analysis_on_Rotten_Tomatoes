@@ -1,0 +1,2 @@
+# Sentiment_analysis_on_Rotten_Tomatoes
+The demonstration utilized as a part of the huge domains of information retrieval and natural language processing is the bag-of-words approach. Manifoldness is being maintained by using this method. Nevertheless, to be more specific, a text, for instance, a single sentence or a record is illustrated as the pack which contains its own words, neglecting syntax and even word arrange. 
